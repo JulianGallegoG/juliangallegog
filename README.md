@@ -3,7 +3,7 @@
 #### A Bioinformatician by day ☼ and a Machine Learning Engineer by night ☾
 
 Bioinformatician at [Laboratorio Genómico One Health](https://www.linkedin.com/company/laboratorio-gen%C3%B3mico-one-health?originalSubdomain=co);<br>
-Biological Engineer with CS minor [UNAL](https://unal.edu.co/);<br>
+Biological Engineer with a CS minor [UNAL](https://unal.edu.co/);<br>
 
 - 🧠 I specialize in: Python, Pandas, Scikit-learn, Tensorflow, Pytorch, Docker, Git, SQL, FastAPI, MLFlow
 - 💻 Currently working on projects related to Genomics, Healthcare and Protein Engineering
